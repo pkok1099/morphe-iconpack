@@ -11,6 +11,20 @@ Kawaii mascot icon packs for [Morphe](https://github.com/MorpheApp/morphe-patche
 | `packs/kawaii-icons-white.zip` | Player | 14 | White variant |
 | `packs/kawaii-icons-pink.zip` | Player | 14 | Pink variant |
 
+## Preview
+
+### Player — kawaii mascot
+![Player kawaii mascot preview](preview/kawaii-icons-chara-preview.png)
+
+### Shorts — kawaii mascot
+![Shorts kawaii mascot preview](preview/kawaii-icons-shorts-preview.png)
+
+### Player — white
+![Player white preview](preview/kawaii-icons-white-preview.png)
+
+### Player — pink
+![Player pink preview](preview/kawaii-icons-pink-preview.png)
+
 All PNGs are 192x192 with transparency. Any icon not included in a pack falls back to the Automatic style, so partial packs work fine.
 
 ### Player pack contents (14)
